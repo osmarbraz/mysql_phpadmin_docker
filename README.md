@@ -11,16 +11,19 @@ Docker Componse com as imagens do MySQL e PHPAdmin para uso em outras aplicaçõ
  - Utilizar o terminal do Windows Powershel em modo administrador.
 
 ### Para criar os conteiner e os serviços
- - ```docker compose up --build```
+ - ```docker compose up -d````
 
-### Parar os serviços
+### Para verificar o serviço em execução
+ - ```docker compose ps```
+
+### Parar o serviço
  - ```docker compose down -v```
 
-### Abra o navegador em:
- - http://localhost:88/
-
-### Remover as imagens
+### Remover a imagem
  - ```docker compose down --rmi all```
+
+### Abra o PHPAdmin com o navegador em:
+ - http://localhost:88/
 
 ## Arquivos
 
