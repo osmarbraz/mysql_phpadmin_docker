@@ -24,7 +24,6 @@ Docker Componse com as imagens do MySQL e PHPAdmin para uso em outras aplicaçõ
 
 ## Arquivos
 
-- *.png - Arquivos de imagens do README.md.
 - Dockerfile - Arquivo de configuração do Docker.
 - compose.yml - Arquivo de configuração da composição do Docker.
 
