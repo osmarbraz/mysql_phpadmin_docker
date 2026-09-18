@@ -1,11 +1,11 @@
 # Docker Compose com MySQL e PHPAdmin
 
-Cria as imagens do MySQL e PHPAdmin para uso em outras aplicações.
+Docker Componse com as imagens do MySQL e PHPAdmin para uso em outras aplicações.
 
 ## Sobre o projeto
  - Utiliza o **Docker Compose** para definir e gerenciar o serviço do banco de dados e o phpadmin. 
  - Utiliza o **MySQL 8.4** como banco de dados da aplicação. 
- - A ferramenta **PHPMyAdmin 5.2.3** vem configurada mas comentada no arquivo compose.yml.
+ - A ferramenta **PHPMyAdmin 5.2.3** vem configurada no arquivo compose.yml.
  
 ## Docker
  - Utilizar o terminal do Windows Powershel em modo administrador.
