@@ -26,7 +26,5 @@ Docker Componse com as imagens do MySQL e PHPAdmin para uso em outras aplicaçõ
  - http://localhost:88/
 
 ## Arquivos
-
-- Dockerfile - Arquivo de configuração do Docker.
 - compose.yml - Arquivo de configuração da composição do Docker.
 
